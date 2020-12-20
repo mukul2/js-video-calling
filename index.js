@@ -1,6 +1,6 @@
 $("document").ready(function() {
     sinchClient = new SinchClient({
-        applicationKey: "YOUR_APP_KEY",
+        applicationKey: "aa446831-4df1-4865-a406-36f254d1f756",
         capabilities: {calling: true, video: true},
         supportActiveConnection: true,
         onLogMessage: function(message) {
